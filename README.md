@@ -7,7 +7,7 @@ This repository contains relevant library design and data files corresponding to
 
 ## Structure
 
-  - Library Design Files 
+  - Library_Design 
     - contains the original oligo sequences of the human peptidome display library
-  - Data
+  - Experimental_Data
     - Hu, Yo, and healthy sample IP data (raw phage/peptide counts per patient)
